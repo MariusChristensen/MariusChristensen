@@ -3,7 +3,7 @@ I code things, break things, fix things, repeat.
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey there! I’m Marius Christensen, a passionate front-end developer currently sharpening my skills through Kodehode and personal projects.  
 
@@ -14,7 +14,7 @@ My learning journey is still ongoing, and I’m enjoying every frustrating, rewa
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@ My learning journey is still ongoing, and I’m enjoying every frustrating, rewa
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 - React Native (because why stop at web?)
 - Building full-stack hobby projects
@@ -35,16 +35,16 @@ My learning journey is still ongoing, and I’m enjoying every frustrating, rewa
 
 ---
 
-## 📝 A Few Fun Facts
+## A Few Fun Facts
 
-- 🥏 I love disc golf and watching discs fly (hopefully not into trees)
-- ☕ I run entirely on caffeine and baby giggles (my sleep schedule is… creative)
-- 🤖 I enjoy figuring things out the hard way so you don’t have to
+-  I love disc golf and watching discs fly (hopefully not into trees)
+-  I run entirely on caffeine and baby giggles (my sleep schedule is… creative)
+-  I enjoy figuring things out the hard way so you don’t have to
 
 ---
 
 
-## 💡 Let’s Connect
+## Let’s Connect
 
 I’m always open for collaboration, learning new stuff, and chatting about front-end dev, disc golf, or how to survive on no sleep.
 
