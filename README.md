@@ -43,11 +43,6 @@ My learning journey is still ongoing, and I’m enjoying every frustrating, rewa
 
 ---
 
-## 📊 GitHub Stats
-
-![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusChristensen&show_icons=true&theme=dark)
-
----
 
 ## 💡 Let’s Connect
 
