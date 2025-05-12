@@ -50,9 +50,6 @@ I’m always open for collaboration, learning new stuff, and chatting about fron
 
 Feel free to check out my pinned projects below or drop me a message!
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MariusChristensen&style=flat&color=blue)
 
 
 
