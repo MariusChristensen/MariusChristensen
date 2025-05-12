@@ -50,6 +50,10 @@ I’m always open for collaboration, learning new stuff, and chatting about fron
 
 Feel free to check out my pinned projects below or drop me a message!
 
+---
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 
 
 
